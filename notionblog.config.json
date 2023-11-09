@@ -1,0 +1,21 @@
+{
+  "databaseID": "e89991f3d3964de28b0d1d8c312e697d",
+  "imagesLink": "/images",
+  "imagesFolder": "static/images/",
+  "contentFolder": "content/zh",
+  "archetypeFile": "archetypes/notion.md",
+  "propertyDescription": "Description",
+  "propertyTags": "Tags",
+  "propertyCategories": "Category",
+  "categoryMap": {
+    "技术": "tech",
+    "随笔": "essay",
+    "关于": "about"
+  },
+  "filterProp": "Status",
+  "filterValue": [
+    "Finished ✅"
+  ],
+  "publishedValue": "Published 🖨",
+  "useShortcodes": true
+}
